@@ -18,4 +18,4 @@ This file contains the datasets D1 and D2 with CS spray parameters and correspon
 *Note: The models described in our manuscript were trained using this dataset along with additional data obtained from experiments conducted at Titomic in Melbourne, Australia. The data from these experiments is proprietary and therefore not included here.
 
 ## png-files
-These files illustrate the distribution of dataset D2 based on the DE output parameters. The ipynb.script requires access to these files to function. 
+These files illustrate the prediction error for dataset D2 depending on differnent DE bins. The ipynb.script requires access to these files to function. 
